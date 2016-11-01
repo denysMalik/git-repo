@@ -1,3 +1,7 @@
 print("Hello World");
 print("Hello everybody");
+<<<<<<< HEAD
 print("Hellooo")
+=======
+print ("Hy")
+>>>>>>> master
