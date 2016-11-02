@@ -6,3 +6,10 @@ c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\bin\Deb
 c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\obj\Debug\TurtleTraining.csprojResolveAssemblyReference.cache
 c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\obj\Debug\TurtleTraining.exe
 c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\obj\Debug\TurtleTraining.pdb
+D:\Repository\Turtle Training\TurtleTraining\bin\Debug\TurtleTraining.exe.config
+D:\Repository\Turtle Training\TurtleTraining\obj\Debug\TurtleTraining.exe
+D:\Repository\Turtle Training\TurtleTraining\obj\Debug\TurtleTraining.pdb
+D:\Repository\Turtle Training\TurtleTraining\bin\Debug\TurtleTraining.exe
+D:\Repository\Turtle Training\TurtleTraining\bin\Debug\TurtleTraining.pdb
+D:\Repository\Turtle Training\TurtleTraining\bin\Debug\SmallBasicLibrary.xml
+D:\Repository\Turtle Training\TurtleTraining\obj\Debug\TurtleTraining.csprojResolveAssemblyReference.cache
