@@ -19,7 +19,7 @@ namespace TurtleTraining
             Random rnd = new Random();
             Shapes.Move(eat,x, y);
 
-            Turtle.PenUp();
+           // Turtle.PenUp();
             while (true)
             {
                 Turtle.Move(10);

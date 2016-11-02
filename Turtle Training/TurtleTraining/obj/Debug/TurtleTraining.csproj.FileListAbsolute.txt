@@ -11,5 +11,3 @@ D:\Repository\Turtle Training\TurtleTraining\obj\Debug\TurtleTraining.exe
 D:\Repository\Turtle Training\TurtleTraining\obj\Debug\TurtleTraining.pdb
 D:\Repository\Turtle Training\TurtleTraining\bin\Debug\TurtleTraining.exe
 D:\Repository\Turtle Training\TurtleTraining\bin\Debug\TurtleTraining.pdb
-D:\Repository\Turtle Training\TurtleTraining\bin\Debug\SmallBasicLibrary.xml
-D:\Repository\Turtle Training\TurtleTraining\obj\Debug\TurtleTraining.csprojResolveAssemblyReference.cache
