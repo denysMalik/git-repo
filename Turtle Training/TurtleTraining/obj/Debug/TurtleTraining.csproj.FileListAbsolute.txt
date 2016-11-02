@@ -1,8 +1,0 @@
-c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\bin\Debug\TurtleTraining.exe.config
-c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\bin\Debug\TurtleTraining.exe
-c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\bin\Debug\TurtleTraining.pdb
-c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\bin\Debug\SmallBasicLibrary.dll
-c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\bin\Debug\SmallBasicLibrary.xml
-c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\obj\Debug\TurtleTraining.csprojResolveAssemblyReference.cache
-c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\obj\Debug\TurtleTraining.exe
-c:\users\денис\documents\visual studio 2015\Projects\TurtleTraining\obj\Debug\TurtleTraining.pdb
